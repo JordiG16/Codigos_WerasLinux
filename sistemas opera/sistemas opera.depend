@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1726462026 source:c:\users\jordig16\desktop\sistemas god\sistemas opera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+
